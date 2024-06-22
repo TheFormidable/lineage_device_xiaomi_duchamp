@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_generic.mk
+    $(LOCAL_DIR)/lineage_duchamp.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_generic-user \
-    lineage_generic-userdebug \
-    lineage_generic-eng
+    lineage_duchamp-user \
+    lineage_duchamp-userdebug \
+    lineage_duchamp-eng
