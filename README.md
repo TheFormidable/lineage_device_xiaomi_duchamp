@@ -1,4 +1,4 @@
-# Android device tree for Android mainline (generic)
+# Android device tree for Redmi 70e / Poco x6 pro (duchamp)
 
 ```
 #
