@@ -129,4 +129,4 @@ BOARD_AVB_VBMETA_VENDOR_ROLLBACK_INDEX_LOCATION := 4
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/manifest.xml
 
 # Inherit the proprietary files
-include vendor/xiaomi/generic/BoardConfigVendor.mk
+include vendor/xiaomi/duchamp/BoardConfigVendor.mk
